@@ -1,5 +1,5 @@
 body{
-    background-color: #e5d7e8
+    background-color: #045ca2
 }
 
 
@@ -57,6 +57,7 @@ color:          #000000 !important;
 
 .about p{
 	font-size:16px;
+    font-color: color: #666666;;
 }
 
 .about {
